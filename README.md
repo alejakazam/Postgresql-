@@ -39,5 +39,3 @@ El sistema permite:
 Proyecto de uso educativo.
 Desarrollado por Alejandra Duarte para Talento Digital.
 
-Proyecto de uso educativo.
-Desarrollado por Alejandra Duarte para Talento Digital.
